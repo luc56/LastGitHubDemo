@@ -10,7 +10,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
-
-    // On GitHub -> Poi faccio commit and Push per aggiornarlo
+     // Se faccio una modifica , MainActivity diventa blu e io posso
+    // Aggiornare GitHub -> Quindi faccio commit and Push per aggiornarlo
 
 }
